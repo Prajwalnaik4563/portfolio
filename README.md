@@ -4,8 +4,7 @@ A modern, dark-themed personal portfolio showcasing my work as a **Full-Stack De
 Designed with a cinematic UI, smooth animations, and a strong focus on clean code and performance.
 
 ## 🔗 Live Preview
-> *(Add your deployed link here)*  
-Example: https://prajwalnaik.dev
+https://portfolio-ugh6-git-main-prajwalnaik0522-5869s-projects.vercel.app?_vercel_share=Yj4OnTxjQ6ijjGTFNJ191zjINVfgWtHW
 
 ---
 
