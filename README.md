@@ -23,7 +23,7 @@ Example: https://prajwalnaik.dev
 
 ---
 ## ScreenShot
-![1](Screenshots/photo45.png)
+![1](Screenshots/photo45.png).
 
 ## 🛠 Tech Stack
 
