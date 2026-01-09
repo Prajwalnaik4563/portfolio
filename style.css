@@ -597,3 +597,33 @@ footer {
   transform: translateY(-12px) scale(1.05);
   box-shadow: 0 30px 60px rgba(0,0,0,0.6);
 }
+.skill span {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
+.skill span img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.skill span {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 600;
+}
+
+.skill span img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+.skill span img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+  filter: brightness(1);
+}
